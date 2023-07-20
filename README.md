@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @billied523 
+- 👀 I’m interested in collaborative learning...
+- 🌱 I’m currently learning new technologies to continue to evolve...
+- 💞️ I’m looking to collaborate on databases world...
+
+<!---
+billied523/billied523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
